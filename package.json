@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "cyber-notes",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Connected cybersecurity notes for engagements and practical labs.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
